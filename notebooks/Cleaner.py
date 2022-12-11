@@ -1,5 +1,4 @@
 import re
-
 from sklearn.base import BaseEstimator, TransformerMixin
 from nltk.stem import WordNetLemmatizer
 
